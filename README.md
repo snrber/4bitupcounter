@@ -3,11 +3,11 @@ Simple 4-bit synchronous up-counter (Verilog). Counter increments on each rising
 
 ## Files
 | File | Description |
-| -------------- | ------------------------------------ |
-| 'design.v'     | Verilog module of 0 to 15 up-counter |
-| 'testbench.v'  | Testbench to simulate counter        |
-| 'waveform.png' | Screenshot of sim waveform           |
-| 'waveform.vcd' | VCD file to view waveform in GTKWave |
+| --------------- | ------------------------------------ |
+| 'design.sv'     | Verilog module of 0 to 15 up-counter |
+| 'testbench.sv'  | Testbench to simulate counter        |
+| 'waveform.png'  | Screenshot of sim waveform           |
+| 'waveform.vcd'  | VCD file to view waveform in GTKWave |
 
 ## Run Online
 Can be run directly in browser with EDA Playground.
