@@ -1,4 +1,4 @@
-# 4bitupcounter
+# 4-bit Up Counter
 Simple 4-bit synchronous up-counter (Verilog). Counter increments on each rising clock edge when "enable" is high; resets to 0 when reset asserted. Includes testbench &amp; simulation waveform (EPWave). Counts from 0 to 15.
 
 ## Files
